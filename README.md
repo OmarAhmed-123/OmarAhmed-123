@@ -1,9 +1,42 @@
-- Hello, I am Omar Ahmed
-- I am interested in the field of information technology, especially the field of cybersecurity, Blue Team (SOC).
-- I am currently a student in the Faculty of Science, Ain Shams University, Department of Mathematics, Computer Science Program, Third Year,
-- and also a student at the University of the People online, and I am studying the Computer Science program.
-- I learned HTML, CSS, and many programming languages such as Python, Java, JavaScript, C++,SQL,and PHP.
+# Hi, I'm Omar Ahmed Ismaeil Saif Eldin 👋
 
-- I developed a Flutter mobile application that enables users to browse news, track currency exchange rates between EGP and USD, and monitor recent gold prices in EGP.
-- The app fetched real-time data from public APIs and presented it in a responsive and user-friendly interface.
+## About Me
 
+Based in Cairo, I develop mobile and web applications using Flutter, React Native, and JavaScript frameworks. My journey includes teaching programming, completing internships in development and cybersecurity, and leading student events and initiatives.
+
+## Skills
+
+- **Languages:** HTML, CSS, JavaScript (ES6), Dart
+- **Frameworks:** React, React Native, Next.js, Flutter, Node.js
+- **Databases:** Hive, Sqflite, SQL (basics)
+- **Cloud & APIs:** Firebase, RESTful API integration
+- **Testing:** Manual and automation testing, debugging
+- **Cybersecurity:** SOC monitoring, threat intelligence, incident response
+- **Tools:** Git, GitHub, VS Code, Android Studio
+- **Data Analytics:** Visualization, basic statistics
+
+## Education
+
+- BSc in Computer Science, University of the People (2021–2025)
+- BSc in Computer Science, Ain Shams University (2021–2025)
+
+## Experience
+
+- Programming Instructor, Iscool (2024–Present)
+- React Native Intern, ITI (2024)
+- Flutter Intern, Ain Shams University (2024)
+- SOC Intern, Chaitanya Cyber Strix Technologies, India (2023)
+
+## Activities & Volunteering
+
+- Organized conferences and graduation ceremonies at Amideast
+- Team leader and volunteer in several student initiatives
+
+## Certifications
+
+- CCNA (Completed)
+- CCNP (In progress)
+
+---
+
+Check out my projects below!
