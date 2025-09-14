@@ -39,4 +39,4 @@ Based in Cairo, I develop mobile and web applications using Flutter, React Nativ
 
 ---
 
-Check out my projects below!
+Check out my projects below!(coming soon)
